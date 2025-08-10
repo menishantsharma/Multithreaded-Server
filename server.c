@@ -3,7 +3,7 @@
 #include<pthread.h>
 #include<sys/socket.h>
 #include<arpa/inet.h>
-#include<signal.h>k
+#include<signal.h>
 #include<unistd.h>
 #include <fcntl.h>
 #include <errno.h>
